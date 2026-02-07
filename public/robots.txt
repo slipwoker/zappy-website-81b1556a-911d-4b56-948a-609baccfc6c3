@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mathmaster-ai-israel-81b1556a.zappy5.app/sitemap.xml
